@@ -1,6 +1,6 @@
 # FPGA Stepper Motor Controller
 
-A Verilog-based controller for unipolar/bipolar stepper motors, implemented on the Intel DE1-SoC (Cyclone V FPGA). Supports full-step and half-step modes, bidirectional motion, acceleration/deceleration, and real-time speed display. Developed with Quartus and ModelSim as part of a digital systems lab.
+A Verilog-based controller for unipolar/bipolar stepper motors, implemented on the Intel DE1-SoC (Cyclone V FPGA). Supports full-step and half-step modes, bidirectional motion, acceleration/deceleration, and real-time speed display. Developed with Quartus as part of a digital systems lab.
 
 ---
 

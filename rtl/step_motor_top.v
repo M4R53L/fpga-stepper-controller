@@ -1,6 +1,6 @@
 // Top module for the step motor controller
 module step_motor_top(
-    input wire clk,
+    input wire clk,		
     input wire resetb,
     input wire direction,  	// Motor direction input
     input wire speed_sel,	  	// Speed selection input

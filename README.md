@@ -33,7 +33,6 @@ fpga-stepper-controller/
 ### Requirements
 
 - Intel Quartus Prime (tested on 20.1+)
-- ModelSim (Intel Edition)
 - Intel DE1-SoC (Cyclone V FPGA)
 - 4-phase stepper motor (e.g., 28BYJ-48)
 

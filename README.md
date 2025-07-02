@@ -18,9 +18,8 @@ A Verilog-based controller for unipolar/bipolar stepper motors, implemented on t
 ```
 fpga-stepper-controller/
 ├── rtl/          # Verilog HDL source files
-├── sim/          # ModelSim testbenches and waveforms
-├── synth/        # Quartus project files, resource & timing reports
-├── docs/         # Architecture diagrams, pinouts, images
+├── sim/          # testbenches 
+├── docs/         # Architecture diagrams
 └── README.md
 ```
 
